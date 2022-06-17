@@ -35,6 +35,7 @@ b. Configure Maven in Eclipse
 c. Maven
 d. Postman
 e. git
+f. docker(optional)
 
  # Project Overview
  State government aims to automate a portion of the Pension detail provisioning. This project covers pensioner detail provision, calculate provision and view for 
