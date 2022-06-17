@@ -1,7 +1,7 @@
 # project-102
 A training end project for pension management
 PENSION MANAGEMENT SYSTEM - This project contains pension detail provisioning
-## Tea members
+## Team members
 Ramalaxmi Telu,
 Dileep Salagala,
 Lohit K,
