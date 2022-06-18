@@ -6,7 +6,7 @@ Ramalaxmi Telu,
 Dileep Salagala,
 Lohit K,
 kirankumar kopparasikoppa,
-Arjit Maiti
+Arijit Maiti
 
 # Project description
 Provision to manage the pension amount in two types. 1:Self Pension, 2:Family Pension.
