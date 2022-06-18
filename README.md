@@ -4,7 +4,7 @@ PENSION MANAGEMENT SYSTEM - This project contains pension detail provisioning
 ## Team members
 Ramalaxmi Telu,
 Dileep Salagala,
-Lohit K,
+Lohith K,
 kirankumar kopparasikoppa,
 Arijit Maiti
 
