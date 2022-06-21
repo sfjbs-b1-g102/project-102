@@ -40,5 +40,3 @@ f. docker(optional)
  # Project Overview
  State government aims to automate a portion of the Pension detail provisioning. This project covers pensioner detail provision, calculate provision and view for 
 further processing.
-
-[curl: https://curl.se/]
